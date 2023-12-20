@@ -1,6 +1,10 @@
 # Digital Health and Human Behavior Final Submission
 
-## Social Media Analysis on Vaccines Discourse
+## Social Media Analysis on Vaccines Discourse   
+
+### Description    
+This [course](https://digitraceslab.github.io/dhhb/index.html) covers topics related to quantifying human behavior, health, and well-being using digital traces at the individual and group/society levels. The chosen project is to analyse the social media discourse on Covid-19 vaccines using any methods the student sees fit. The report for this project can be found in report.pdf.
+
 
 ### Set Up
 
